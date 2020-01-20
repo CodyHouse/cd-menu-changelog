@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.3] - 2020-01-20
+- Close menu when page scrolls
+
 ## [1.0.2] - 2019-10-22
 - Made Menu object globally available
 
