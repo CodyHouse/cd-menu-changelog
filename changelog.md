@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-07-13
+- Added new data-scrollable-element option
+
 ## [1.0.3] - 2020-01-20
 - Close menu when page scrolls
 
